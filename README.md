@@ -37,3 +37,4 @@ This repo contains a number of problems. To solve the problems, do the following
         5. Is your solution correct? If you're able, try checking your answer with different inputs
 
 _Hint_: An example of a completed exercise is in the directory [src/easy/scores](src/easy/scores).
+# js-problems-copy
