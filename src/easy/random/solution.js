@@ -10,7 +10,6 @@ function RandomNumberGenerator (a, b) {
     const min = Math.ceil(a);
     const max = Math.floor(b);
     const random =  Math.floor(Math.random() * (max - min) + min)
-    console.log(random)
     return random; //The maximum is exclusive and the minimum is inclusive
 }
 
