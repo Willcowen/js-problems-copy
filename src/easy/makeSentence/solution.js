@@ -5,8 +5,7 @@ if (punctuation.includes(string.charAt(string.length - 1))) {
     return string
 }
 
-else {
-    return string + '.'}
+else return string + '.'
 }
 
 makeSentence('hello there, my name is Will!')
